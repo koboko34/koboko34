@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Armand Yilinkou, @koboko34.
 - 👀 I’m interested in gameplay and graphics programming.
-- 🌱 I’m currently learning C++, OpenGL and Java, as well as Unreal Engine 5.
+- 🌱 I’m currently learning C++, OpenGL as well as Unreal Engine 5.
 - ✨ Check out my website: https://www.armandyilinkou.com/
 - 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/armand-yilinkou
 
